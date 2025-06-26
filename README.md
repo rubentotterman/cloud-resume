@@ -13,6 +13,6 @@ This is my submission for the Cloud Resume Challenge (AWS Edition).
 
 ## Links
 
-- [Live Resume] ([#https://rubenresume.org/])
+- [Live Resume](https://rubenresume.org/)
 - [GitHub Repo](https://github.com/rubentotterman)
 - [LinkedIn](https://www.linkedin.com/in/ruben-totterman/)
